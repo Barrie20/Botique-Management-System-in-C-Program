@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1659225576 source:c:\users\dell\desktop\programing project\c\desktop application\clothing store mgmt\botiquemanagementsystem\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
